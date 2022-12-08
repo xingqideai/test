@@ -1,5 +1,5 @@
 <?php
-namespace test;
+namespace numberFormat;
 class NumberFormat
 {
     public static function byteFormat($num = 0, $precision = 1)
