@@ -1,0 +1,21 @@
+{
+    "name": "xingqi/number-format",
+    "description": "byte conversion",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xingqi\\NumberFormat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xingqi",
+            "email": "xingqideai@vip.qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
